@@ -9,3 +9,8 @@ amupdatedl2.microsoft.com
 amupdatedl3.microsoft.com
 amupdatedl4.microsoft.com
 amupdatedl5.microsoft.com
+103.21.40.58
+59.152.107.58
+*.officecdn.microsoft.com.edgesuite.net
+*.officecdn.microsoft.com
+*.cdn.office.net
